@@ -14,10 +14,9 @@ Cross-platform: Works on both Linux and Windows systems.
 
 Installation
 
-1. Clone this repository:
-
+Clone this repository:
 bash
-	   	git clone https://github.com/yourusername/FloodGuard.git
+	   git clone https://github.com/yourusername/FloodGuard.git
 
 Install the required dependencies:
 
