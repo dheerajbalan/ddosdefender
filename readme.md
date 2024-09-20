@@ -20,11 +20,6 @@ bash
 	
  	git clone https://github.com/yourusername/FloodGuard.git
 
-Install the required dependencies:
-
-    bash
-
-	    pip install -r requirements.txt
 
 Dependencies include:
 scapy
