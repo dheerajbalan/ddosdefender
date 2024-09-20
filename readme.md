@@ -17,7 +17,7 @@ Installation
 1. Clone this repository:
 
 bash
-	   git clone https://github.com/yourusername/FloodGuard.git
+	   	git clone https://github.com/yourusername/FloodGuard.git
 
 Install the required dependencies:
 
